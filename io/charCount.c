@@ -4,7 +4,7 @@ main()
     long nc;
     while(getchar()!=EOF) {
         ++nc;
-        printf("%ld\n", nc);s
+        printf("%ld\n", nc);
     }
     
 }
